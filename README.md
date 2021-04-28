@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋 , I'm Adrian Chong</h1>
 <h3 align="center">A software engineer from Malaysia</h3>
 
-
-- 🌱 I’m currently learning **React & Go**
-- 📫 Find me on: <a href="https://github.com/sfchong" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
+<li>🌱 I’m currently learning **React & Go** </li>
+<li>📫 Find me on: <a href="https://github.com/sfchong" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sfchong" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-- ✍️ Blogging at <a href="https://adrianchongsf.com/blog" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a>
-- 🖥️ Coding Environment: Dark 🕶️
-- ⚡ Fun fact: I love coffee, music and reading
-- 💬 Favourite Quotes:
-  > It is good to have an end to journey toward; but it is the journey that matters, in the end. - Ernest Hemingway
+</li>
+<li>✍️ Blogging at <a href="https://adrianchongsf.com/blog" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a></li>
+<li>🖥️ Coding Environment: Dark 🕶️</li>
+<li>⚡ Fun fact: I love coffee, music and reading</li>
+<li>💬 Favourite Quotes:
 
-  > Books are mirrors: you only see in them what you already have inside you. - Carlos Ruiz Zafón
+> It is good to have an end to journey toward; but it is the journey that matters, in the end. - Ernest Hemingway
 
-  > Life is made of ever so many partings welded together. - Charles Dickens
+> Books are mirrors: you only see in them what you already have inside you. - Carlos Ruiz Zafón
+
+> Life is made of ever so many partings welded together. - Charles Dickens
+</li>
 
 ### ⚒  Toolbox
 <p align="left"> 
